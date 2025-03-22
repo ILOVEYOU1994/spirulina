@@ -1,62 +1,134 @@
+/* General Styling */
 body {
     font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
     text-align: center;
-    padding: 20px;
 }
 
-/* Toggle Chapter Menu */
-#toggleMenu {
-    position: fixed;
-    left: 10px;
-    top: 10px;
-    padding: 10px;
-    cursor: pointer;
-}
-
-#chapterMenu {
-    position: fixed;
-    left: -220px;
-    top: 0;
-    width: 200px;
-    height: 100%;
-    background: #f8f8f8;
-    padding: 10px;
-    transition: left 0.3s ease-in-out;
-    overflow-y: auto;
-}
-
-#chapterMenu button {
-    display: block;
-    width: 100%;
-    padding: 10px;
-    border: none;
-    background: #ddd;
-    cursor: pointer;
-}
-
-#chapterMenu button:hover {
-    background: #bbb;
-}
-
-/* Verse Styling */
-.verse-container {
-    padding: 15px;
-    margin: 10px;
-    border-radius: 10px;
-    text-align: left;
-}
-
-/* Toggle Button for Translations */
-.toggleTranslation {
-    cursor: pointer;
-    background: #007bff;
+/* Header Styling */
+header h1 {
+    background: #004d99;
     color: white;
-    padding: 5px;
+    padding: 15px;
+    margin: 0;
+}
+
+/* Chapter & Verse Containers */
+.chapter-container, .verse-container {
+    background: white;
+    border-radius: 12px;
+    padding: 15px;
+    margin: 15px auto;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Dynamic Background Colors */
+.verse-container:nth-child(odd) {
+    background-color: #e6f7ff;
+}
+
+.verse-container:nth-child(even) {
+    background-color: #ffe6e6;
+}
+
+/* Buttons */
+button {
+    background-color: #004d99;
+    color: white;
     border: none;
+    padding: 10px 15px;
+    margin: 10px;
+    cursor: pointer;
     border-radius: 5px;
 }
 
-/* Hide by Default */
-.translation {
-    display: none;
+button:hover {
+    background-color: #00264d;
+}
+
+/* Navigation Buttons */
+#navigation-buttons {
+    margin: 20px;
+}
+
+#navigation-buttons button {
+    width: 40%;
+    display: inline-block;
+}
+
+/* Floating Chapter Menu Button */
+.floating-btn {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    background: #004d99;
+    color: white;
+    border: none;
+    padding: 12px 15px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.floating-btn:hover {
+    background: #00264d;
+}
+
+/* Chapter Menu */
+.chapter-menu {
+    position: fixed;
+    left: -250px;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    background: #004d99;
+    padding: 20px;
+    overflow-y: auto;
+    transition: 0.3s ease-in-out;
+    z-index: 999;
+}
+
+.chapter-menu.active {
+    left: 0;
+}
+
+.chapter-menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.chapter-menu ul li {
+    padding: 10px;
+    margin: 5px 0;
+    background: white;
+    color: #004d99;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.chapter-menu ul li:hover {
+    background: #00264d;
+    color: white;
+}
+
+/* Close Button */
+.close-btn {
+    background: red;
+    border: none;
+    color: white;
+    padding: 5px;
+    float: right;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .chapter-container, .verse-container {
+        width: 95%;
+    }
 }
