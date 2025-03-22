@@ -1,22 +1,804 @@
 [
-    {
-        "chapter": 1,
-        "chapter_name": "Arjuna Vishada Yoga",
-        "chapter_description": "The Yoga of Arjuna's Dejection",
+  {
+    "chapter": 1,
+    "chapter_name": "Sainya-Darśana (Observing the Armies on the Battlefield)",
+    "chapter_description": "In Chapter One - Sainya Darśana (Observing the Armies on the Battlefield) of Swami B.G. Narasingha's Bhagavad-gītā, Arjuna looks over the battlefield of Kurukṣetra and becomes disturbed at the idea of killing family and seniors. He gives his arguments to Kṛṣṇa why he should abandon the battlefield.",
+    "verses": [
+      
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+[
+  {
+    "chapter": 1,
+    "chapter_name": "Sainya-Darśana (Observing the Armies on the Battlefield)",
+    "chapter_description": "In Chapter One - Sainya Darśana (Observing the Armies on the Battlefield) of the Bhagavad-gītā, Arjuna looks over the battlefield of Kurukṣetra and becomes disturbed at the idea of killing family and seniors. He gives his arguments to Kṛṣṇa why he should abandon the battlefield.",
+    "verses": [
+      {
         "verse_number": 1,
-        "sanskrit": "धृतराष्ट्र उवाच...",
-        "english": "Dhritarashtra said...",
-        "hindi": "धृतराष्ट्र ने कहा...",
-        "marathi": "धृतराष्ट्र म्हणाला..."
-    },
-    {
-        "chapter": 1,
-        "chapter_name": "Arjuna Vishada Yoga",
-        "chapter_description": "The Yoga of Arjuna's Dejection",
+        "sanskrit": "धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "english": "Dhritarashtra said: O Sanjaya, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+        "hindi": "धृतराष्ट्र ने कहा: ओ संजय, कुरुक्षेत्र के धर्मक्षेत्र में एकत्र होकर और युद्ध की इच्छा रखते हुए, मेरे और पाण्डु के पुत्रों ने क्या किया?",
+        "marathi": "धृतराष्ट्र म्हणाला: संजय, कुरुक्षेत्रातील धर्मक्षेत्रात एकत्र होऊन आणि युद्धाची इच्छा बाळगून, माझ्या आणि पाण्डूच्या पुत्रांनी काय केले?"
+      },
+      {
         "verse_number": 2,
-        "sanskrit": "संजय उवाच...",
-        "english": "Sanjaya said...",
-        "hindi": "संजय ने कहा...",
-        "marathi": "संजय म्हणाला..."
-    }
+        "sanskrit": "सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+        "english": "Sanjaya said: O King, after observing the Pandava army arranged in a military formation, King Duryodhana approached his teacher, Drona, and spoke the following words.",
+        "hindi": "संजय ने कहा: राजन, पाण्डवों की सेना को व्यूहबद्ध होते हुए देखकर, दुर्योधन अपने गुरु द्रोण के पास गया और यह वचन कहा।",
+        "marathi": "संजय म्हणाला: राजन, पाण्डवांच्या सैन्याला व्यूहबद्ध होताना पाहून, दुर्योधन त्याच्या गुरु द्रोणाकडे गेला आणि हे शब्द उच्चारले."
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "english": "Behold, O teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+        "hindi": "हे गुरु, पाण्डु के पुत्रों की इस विशाल सेना को देखो, जिसे द्रुपद के पुत्र ने, जो आपका बुद्धिमान शिष्य है, व्यवस्थित किया है।",
+        "marathi": "हे गुरु, पाण्डूंच्या पुत्रांची ही विशाल सेना पहा, जी द्रुपदच्या पुत्राने, जो तुमचा बुद्धिमान शिष्य आहे, व्यवस्थित केली आहे."
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "english": "Here in this army, there are many heroic bowmen equal in fighting to Bhima and Arjuna; there are also great warriors like Yuyudhana, Virata, and Drupada, the maharatha.",
+        "hindi": "इस सेना में कई वीर धनुर्धारी हैं, जो भीम और अर्जुन के समान युद्ध में सक्षम हैं; यहाँ युयुधान, विराट और द्रुपद जैसे महान रथी भी हैं।",
+        "marathi": "या सैन्यात अनेक वीर धनुर्धारी आहेत, जे भीम आणि अर्जुनाच्या समान युद्धात पात्र आहेत; येथे युयुधान, विराट आणि द्रुपद यासारखे महान रथी आहेत."
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥",
+        "english": "There are also heroes like Dhrishtaketu, Chekitana, the mighty king of Kashi, Purujit, Kuntibhoja, and Shaibya, the supreme among men.",
+        "hindi": "यहाँ धृष्टकेतु, चेकीतान, काशी के वीर राजा, पुरुजित, कुन्तिभोज और शैब्य जैसे महान योद्धा भी हैं।",
+        "marathi": "येथे धृष्टकेतु, चेकीतान, काशीचा वीर राजा, पुरुजित, कुन्तिभोज आणि शैब्य यांसारखे महान योद्धा आहेत."
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "english": "There are also Yudhami, the valiant, Uttamaujas, the mighty, and the sons of Draupadi, all great warriors and maharathas.",
+        "hindi": "यहाँ युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र और द्रौपदी के पुत्र जैसे सभी महान रथी हैं।",
+        "marathi": "येथे युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र आणि द्रौपदीचे पुत्र यांसारखे सर्व महान रथी आहेत."
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+        "english": "O best of the Brahmanas, hear from me the names of those who are the most distinguished among us. I will tell you who they are.",
+        "hindi": "हे ब्राह्मण श्रेष्ठ, अब मैं तुम्हें हमारे महान योद्धाओं के नाम बताता हूँ।",
+        "marathi": "हे ब्राह्मणश्रेष्ठ, आता मी तुम्हाला आमच्या महान योद्ध्यांची नावे सांगतो."
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "english": "You are Bhishma, Karna, and Kripa, the victor in battles; Ashwatthama, Vikarna, and the son of Somadatta, also.",
+        "hindi": "आप ही भीष्म, कर्ण और कृप हैं, जो युद्धों में विजयी हैं; अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र भी हैं।",
+        "marathi": "तुम्ही भीष्म, कर्ण आणि कृप आहात, जे युद्धात विजयी आहेत; अश्वत्थामा, विकर्ण आणि सोमदत्ताचा पुत्र देखील आहे."
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "english": "There are also many other great warriors who have laid down their lives for my sake, and they are armed with various weapons and are experts in the art of warfare.",
+        "hindi": "और भी कई महान योद्धा हैं जिन्होंने मेरे लिए अपने प्राणों की आहुति दी है, और वे विभिन्न शस्त्रों से सुसज्जित हैं और युद्ध के निपुण हैं।",
+        "marathi": "आणखी अनेक महान योद्धा आहेत ज्यांनी माझ्यासाठी आपल्या प्राणांची आहुती दिली आहे, आणि ते विविध शस्त्रांनी सुसज्जित आहेत आणि युद्धकला मध्ये निपुण आहेत."
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "english": "Our army is unlimited and protected by Bhishma, whereas the army of the Pandavas is limited and protected by Bhima.",
+        "hindi": "हमारी सेना असीमित है और भीष्म द्वारा संरक्षित है, जबकि पाण्डवों की सेना सीमित है और भीम द्वारा संरक्षित है।",
+        "marathi": "आमची सेना अपार आहे आणि भीष्माने संरक्षित केली आहे, तर पाण्डवांची सेना सीमित आहे आणि भीमाने संरक्षित केली आहे."
+      }
+      // Add all verses similarly for Chapter 1...
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapter_name": "Sankhya Yoga (The Yoga of Knowledge)",
+    "chapter_description": "In Chapter Two - Sankhya Yoga, Krishna reveals the nature of the soul and the difference between the physical body and the eternal self. This chapter emphasizes the importance of wisdom, selfless action, and detachment from material desires.",
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "english": "Dhritarashtra said: O Sanjaya, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+        "hindi": "धृतराष्ट्र ने कहा: ओ संजय, कुरुक्षेत्र के धर्मक्षेत्र में एकत्र होकर और युद्ध की इच्छा रखते हुए, मेरे और पाण्डु के पुत्रों ने क्या किया?",
+        "marathi": "धृतराष्ट्र म्हणाला: संजय, कुरुक्षेत्रातील धर्मक्षेत्रात एकत्र होऊन आणि युद्धाची इच्छा बाळगून, माझ्या आणि पाण्डूच्या पुत्रांनी काय केले?"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+        "english": "Sanjaya said: O King, after observing the Pandava army arranged in a military formation, King Duryodhana approached his teacher, Drona, and spoke the following words.",
+        "hindi": "संजय ने कहा: राजन, पाण्डवों की सेना को व्यूहबद्ध होते हुए देखकर, दुर्योधन अपने गुरु द्रोण के पास गया और यह वचन कहा।",
+        "marathi": "संजय म्हणाला: राजन, पाण्डवांच्या सैन्याला व्यूहबद्ध होताना पाहून, दुर्योधन त्याच्या गुरु द्रोणाकडे गेला आणि हे शब्द उच्चारले."
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "english": "Behold, O teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+        "hindi": "हे गुरु, पाण्डु के पुत्रों की इस विशाल सेना को देखो, जिसे द्रुपद के पुत्र ने, जो आपका बुद्धिमान शिष्य है, व्यवस्थित किया है।",
+        "marathi": "हे गुरु, पाण्डूंच्या पुत्रांची ही विशाल सेना पहा, जी द्रुपदच्या पुत्राने, जो तुमचा बुद्धिमान शिष्य आहे, व्यवस्थित केली आहे."
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "english": "Here in this army, there are many heroic bowmen equal in fighting to Bhima and Arjuna; there are also great warriors like Yuyudhana, Virata, and Drupada, the maharatha.",
+        "hindi": "इस सेना में कई वीर धनुर्धारी हैं, जो भीम और अर्जुन के समान युद्ध में सक्षम हैं; यहाँ युयुधान, विराट और द्रुपद जैसे महान रथी भी हैं।",
+        "marathi": "या सैन्यात अनेक वीर धनुर्धारी आहेत, जे भीम आणि अर्जुनाच्या समान युद्धात पात्र आहेत; येथे युयुधान, विराट आणि द्रुपद यासारखे महान रथी आहेत."
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥",
+        "english": "There are also heroes like Dhrishtaketu, Chekitana, the mighty king of Kashi, Purujit, Kuntibhoja, and Shaibya, the supreme among men.",
+        "hindi": "यहाँ धृष्टकेतु, चेकीतान, काशी के वीर राजा, पुरुजित, कुन्तिभोज और शैब्य जैसे महान योद्धा भी हैं।",
+        "marathi": "येथे धृष्टकेतु, चेकीतान, काशीचा वीर राजा, पुरुजित, कुन्तिभोज आणि शैब्य यांसारखे महान योद्धा आहेत."
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "english": "There are also Yudhami, the valiant, Uttamaujas, the mighty, and the sons of Draupadi, all great warriors and maharathas.",
+        "hindi": "यहाँ युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र और द्रौपदी के पुत्र जैसे सभी महान रथी हैं।",
+        "marathi": "येथे युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र आणि द्रौपदीचे पुत्र यांसारखे सर्व महान रथी आहेत."
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+        "english": "O best of the Brahmanas, hear from me the names of those who are the most distinguished among us. I will tell you who they are.",
+        "hindi": "हे ब्राह्मण श्रेष्ठ, अब मैं तुम्हें हमारे महान योद्धाओं के नाम बताता हूँ।",
+        "marathi": "हे ब्राह्मणश्रेष्ठ, आता मी तुम्हाला आमच्या महान योद्ध्यांची नावे सांगतो."
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "english": "You are Bhishma, Karna, and Kripa, the victor in battles; Ashwatthama, Vikarna, and the son of Somadatta, also.",
+        "hindi": "आप ही भीष्म, कर्ण और कृप हैं, जो युद्धों में विजयी हैं; अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र भी हैं।",
+        "marathi": "तुम्ही भीष्म, कर्ण आणि कृप आहात, जे युद्धात विजयी आहेत; अश्वत्थामा, विकर्ण आणि सोमदत्ताचा पुत्र देखील आहे."
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "english": "There are also many other great warriors who have laid down their lives for my sake, and they are armed with various weapons and are experts in the art of warfare.",
+        "hindi": "और भी कई महान योद्धा हैं जिन्होंने मेरे लिए अपने प्राणों की आहुति दी है, और वे विभिन्न शस्त्रों से सुसज्जित हैं और युद्ध के निपुण हैं।",
+        "marathi": "आणखी अनेक महान योद्धा आहेत ज्यांनी माझ्यासाठी आपल्या प्राणांची आहुती दिली आहे, आणि ते विविध शस्त्रांनी सुसज्जित आहेत आणि युद्धकला मध्ये निपुण आहेत."
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "english": "Our army is unlimited and protected by Bhishma, whereas the army of the Pandavas is limited and protected by Bhima.",
+        "hindi": "हमारी सेना असीमित है और भीष्म द्वारा संरक्षित है, जबकि पाण्डवों की सेना सीमित है और भीम द्वारा संरक्षित है।",
+        "marathi": "आमची सेना अपार आहे आणि भीष्माने संरक्षित केली आहे, तर पाण्डवांची सेना सीमित आहे आणि भीमाने संरक्षित केली आहे."
+      }
+      // Add verses similar to Chapter 1...
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapter_name": "Karma Yoga (The Yoga of Action)",
+    "chapter_description": "In Chapter Three - Karma Yoga, Krishna explains the importance of performing one's duties without attachment to the results. This chapter teaches the path of selfless action and devotion to the divine.",
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "english": "Dhritarashtra said: O Sanjaya, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+        "hindi": "धृतराष्ट्र ने कहा: ओ संजय, कुरुक्षेत्र के धर्मक्षेत्र में एकत्र होकर और युद्ध की इच्छा रखते हुए, मेरे और पाण्डु के पुत्रों ने क्या किया?",
+        "marathi": "धृतराष्ट्र म्हणाला: संजय, कुरुक्षेत्रातील धर्मक्षेत्रात एकत्र होऊन आणि युद्धाची इच्छा बाळगून, माझ्या आणि पाण्डूच्या पुत्रांनी काय केले?"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+        "english": "Sanjaya said: O King, after observing the Pandava army arranged in a military formation, King Duryodhana approached his teacher, Drona, and spoke the following words.",
+        "hindi": "संजय ने कहा: राजन, पाण्डवों की सेना को व्यूहबद्ध होते हुए देखकर, दुर्योधन अपने गुरु द्रोण के पास गया और यह वचन कहा।",
+        "marathi": "संजय म्हणाला: राजन, पाण्डवांच्या सैन्याला व्यूहबद्ध होताना पाहून, दुर्योधन त्याच्या गुरु द्रोणाकडे गेला आणि हे शब्द उच्चारले."
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "english": "Behold, O teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+        "hindi": "हे गुरु, पाण्डु के पुत्रों की इस विशाल सेना को देखो, जिसे द्रुपद के पुत्र ने, जो आपका बुद्धिमान शिष्य है, व्यवस्थित किया है।",
+        "marathi": "हे गुरु, पाण्डूंच्या पुत्रांची ही विशाल सेना पहा, जी द्रुपदच्या पुत्राने, जो तुमचा बुद्धिमान शिष्य आहे, व्यवस्थित केली आहे."
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "english": "Here in this army, there are many heroic bowmen equal in fighting to Bhima and Arjuna; there are also great warriors like Yuyudhana, Virata, and Drupada, the maharatha.",
+        "hindi": "इस सेना में कई वीर धनुर्धारी हैं, जो भीम और अर्जुन के समान युद्ध में सक्षम हैं; यहाँ युयुधान, विराट और द्रुपद जैसे महान रथी भी हैं।",
+        "marathi": "या सैन्यात अनेक वीर धनुर्धारी आहेत, जे भीम आणि अर्जुनाच्या समान युद्धात पात्र आहेत; येथे युयुधान, विराट आणि द्रुपद यासारखे महान रथी आहेत."
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥",
+        "english": "There are also heroes like Dhrishtaketu, Chekitana, the mighty king of Kashi, Purujit, Kuntibhoja, and Shaibya, the supreme among men.",
+        "hindi": "यहाँ धृष्टकेतु, चेकीतान, काशी के वीर राजा, पुरुजित, कुन्तिभोज और शैब्य जैसे महान योद्धा भी हैं।",
+        "marathi": "येथे धृष्टकेतु, चेकीतान, काशीचा वीर राजा, पुरुजित, कुन्तिभोज आणि शैब्य यांसारखे महान योद्धा आहेत."
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "english": "There are also Yudhami, the valiant, Uttamaujas, the mighty, and the sons of Draupadi, all great warriors and maharathas.",
+        "hindi": "यहाँ युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र और द्रौपदी के पुत्र जैसे सभी महान रथी हैं।",
+        "marathi": "येथे युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र आणि द्रौपदीचे पुत्र यांसारखे सर्व महान रथी आहेत."
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+        "english": "O best of the Brahmanas, hear from me the names of those who are the most distinguished among us. I will tell you who they are.",
+        "hindi": "हे ब्राह्मण श्रेष्ठ, अब मैं तुम्हें हमारे महान योद्धाओं के नाम बताता हूँ।",
+        "marathi": "हे ब्राह्मणश्रेष्ठ, आता मी तुम्हाला आमच्या महान योद्ध्यांची नावे सांगतो."
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "english": "You are Bhishma, Karna, and Kripa, the victor in battles; Ashwatthama, Vikarna, and the son of Somadatta, also.",
+        "hindi": "आप ही भीष्म, कर्ण और कृप हैं, जो युद्धों में विजयी हैं; अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र भी हैं।",
+        "marathi": "तुम्ही भीष्म, कर्ण आणि कृप आहात, जे युद्धात विजयी आहेत; अश्वत्थामा, विकर्ण आणि सोमदत्ताचा पुत्र देखील आहे."
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "english": "There are also many other great warriors who have laid down their lives for my sake, and they are armed with various weapons and are experts in the art of warfare.",
+        "hindi": "और भी कई महान योद्धा हैं जिन्होंने मेरे लिए अपने प्राणों की आहुति दी है, और वे विभिन्न शस्त्रों से सुसज्जित हैं और युद्ध के निपुण हैं।",
+        "marathi": "आणखी अनेक महान योद्धा आहेत ज्यांनी माझ्यासाठी आपल्या प्राणांची आहुती दिली आहे, आणि ते विविध शस्त्रांनी सुसज्जित आहेत आणि युद्धकला मध्ये निपुण आहेत."
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "english": "Our army is unlimited and protected by Bhishma, whereas the army of the Pandavas is limited and protected by Bhima.",
+        "hindi": "हमारी सेना असीमित है और भीष्म द्वारा संरक्षित है, जबकि पाण्डवों की सेना सीमित है और भीम द्वारा संरक्षित है।",
+        "marathi": "आमची सेना अपार आहे आणि भीष्माने संरक्षित केली आहे, तर पाण्डवांची सेना सीमित आहे आणि भीमाने संरक्षित केली आहे."
+      }
+      // Add verses similar to Chapter 1...
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapter_name": "Jnana Karma Sanyasa Yoga (The Yoga of Knowledge and the Disciplines of Action)",
+    "chapter_description": "In Chapter Four - Jnana Karma Sanyasa Yoga, Krishna explains the wisdom behind performing one's duties, and how knowledge leads to the ultimate liberation. He also describes the importance of sacrifice and devotion to God.",
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "english": "Dhritarashtra said: O Sanjaya, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+        "hindi": "धृतराष्ट्र ने कहा: ओ संजय, कुरुक्षेत्र के धर्मक्षेत्र में एकत्र होकर और युद्ध की इच्छा रखते हुए, मेरे और पाण्डु के पुत्रों ने क्या किया?",
+        "marathi": "धृतराष्ट्र म्हणाला: संजय, कुरुक्षेत्रातील धर्मक्षेत्रात एकत्र होऊन आणि युद्धाची इच्छा बाळगून, माझ्या आणि पाण्डूच्या पुत्रांनी काय केले?"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+        "english": "Sanjaya said: O King, after observing the Pandava army arranged in a military formation, King Duryodhana approached his teacher, Drona, and spoke the following words.",
+        "hindi": "संजय ने कहा: राजन, पाण्डवों की सेना को व्यूहबद्ध होते हुए देखकर, दुर्योधन अपने गुरु द्रोण के पास गया और यह वचन कहा।",
+        "marathi": "संजय म्हणाला: राजन, पाण्डवांच्या सैन्याला व्यूहबद्ध होताना पाहून, दुर्योधन त्याच्या गुरु द्रोणाकडे गेला आणि हे शब्द उच्चारले."
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "english": "Behold, O teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+        "hindi": "हे गुरु, पाण्डु के पुत्रों की इस विशाल सेना को देखो, जिसे द्रुपद के पुत्र ने, जो आपका बुद्धिमान शिष्य है, व्यवस्थित किया है।",
+        "marathi": "हे गुरु, पाण्डूंच्या पुत्रांची ही विशाल सेना पहा, जी द्रुपदच्या पुत्राने, जो तुमचा बुद्धिमान शिष्य आहे, व्यवस्थित केली आहे."
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "english": "Here in this army, there are many heroic bowmen equal in fighting to Bhima and Arjuna; there are also great warriors like Yuyudhana, Virata, and Drupada, the maharatha.",
+        "hindi": "इस सेना में कई वीर धनुर्धारी हैं, जो भीम और अर्जुन के समान युद्ध में सक्षम हैं; यहाँ युयुधान, विराट और द्रुपद जैसे महान रथी भी हैं।",
+        "marathi": "या सैन्यात अनेक वीर धनुर्धारी आहेत, जे भीम आणि अर्जुनाच्या समान युद्धात पात्र आहेत; येथे युयुधान, विराट आणि द्रुपद यासारखे महान रथी आहेत."
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥",
+        "english": "There are also heroes like Dhrishtaketu, Chekitana, the mighty king of Kashi, Purujit, Kuntibhoja, and Shaibya, the supreme among men.",
+        "hindi": "यहाँ धृष्टकेतु, चेकीतान, काशी के वीर राजा, पुरुजित, कुन्तिभोज और शैब्य जैसे महान योद्धा भी हैं।",
+        "marathi": "येथे धृष्टकेतु, चेकीतान, काशीचा वीर राजा, पुरुजित, कुन्तिभोज आणि शैब्य यांसारखे महान योद्धा आहेत."
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "english": "There are also Yudhami, the valiant, Uttamaujas, the mighty, and the sons of Draupadi, all great warriors and maharathas.",
+        "hindi": "यहाँ युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र और द्रौपदी के पुत्र जैसे सभी महान रथी हैं।",
+        "marathi": "येथे युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र आणि द्रौपदीचे पुत्र यांसारखे सर्व महान रथी आहेत."
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+        "english": "O best of the Brahmanas, hear from me the names of those who are the most distinguished among us. I will tell you who they are.",
+        "hindi": "हे ब्राह्मण श्रेष्ठ, अब मैं तुम्हें हमारे महान योद्धाओं के नाम बताता हूँ।",
+        "marathi": "हे ब्राह्मणश्रेष्ठ, आता मी तुम्हाला आमच्या महान योद्ध्यांची नावे सांगतो."
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "english": "You are Bhishma, Karna, and Kripa, the victor in battles; Ashwatthama, Vikarna, and the son of Somadatta, also.",
+        "hindi": "आप ही भीष्म, कर्ण और कृप हैं, जो युद्धों में विजयी हैं; अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र भी हैं।",
+        "marathi": "तुम्ही भीष्म, कर्ण आणि कृप आहात, जे युद्धात विजयी आहेत; अश्वत्थामा, विकर्ण आणि सोमदत्ताचा पुत्र देखील आहे."
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "english": "There are also many other great warriors who have laid down their lives for my sake, and they are armed with various weapons and are experts in the art of warfare.",
+        "hindi": "और भी कई महान योद्धा हैं जिन्होंने मेरे लिए अपने प्राणों की आहुति दी है, और वे विभिन्न शस्त्रों से सुसज्जित हैं और युद्ध के निपुण हैं।",
+        "marathi": "आणखी अनेक महान योद्धा आहेत ज्यांनी माझ्यासाठी आपल्या प्राणांची आहुती दिली आहे, आणि ते विविध शस्त्रांनी सुसज्जित आहेत आणि युद्धकला मध्ये निपुण आहेत."
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "english": "Our army is unlimited and protected by Bhishma, whereas the army of the Pandavas is limited and protected by Bhima.",
+        "hindi": "हमारी सेना असीमित है और भीष्म द्वारा संरक्षित है, जबकि पाण्डवों की सेना सीमित है और भीम द्वारा संरक्षित है।",
+        "marathi": "आमची सेना अपार आहे आणि भीष्माने संरक्षित केली आहे, तर पाण्डवांची सेना सीमित आहे आणि भीमाने संरक्षित केली आहे."
+      }
+      // Add verses similar to Chapter 1...
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapter_name": "Karma Sanyasa Yoga (The Yoga of Renunciation of Action)",
+    "chapter_description": "In Chapter Five - Karma Sanyasa Yoga, Krishna expounds on the concept of renouncing actions, emphasizing the importance of selfless work and detachment from results.",
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "english": "Dhritarashtra said: O Sanjaya, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+        "hindi": "धृतराष्ट्र ने कहा: ओ संजय, कुरुक्षेत्र के धर्मक्षेत्र में एकत्र होकर और युद्ध की इच्छा रखते हुए, मेरे और पाण्डु के पुत्रों ने क्या किया?",
+        "marathi": "धृतराष्ट्र म्हणाला: संजय, कुरुक्षेत्रातील धर्मक्षेत्रात एकत्र होऊन आणि युद्धाची इच्छा बाळगून, माझ्या आणि पाण्डूच्या पुत्रांनी काय केले?"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+        "english": "Sanjaya said: O King, after observing the Pandava army arranged in a military formation, King Duryodhana approached his teacher, Drona, and spoke the following words.",
+        "hindi": "संजय ने कहा: राजन, पाण्डवों की सेना को व्यूहबद्ध होते हुए देखकर, दुर्योधन अपने गुरु द्रोण के पास गया और यह वचन कहा।",
+        "marathi": "संजय म्हणाला: राजन, पाण्डवांच्या सैन्याला व्यूहबद्ध होताना पाहून, दुर्योधन त्याच्या गुरु द्रोणाकडे गेला आणि हे शब्द उच्चारले."
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "english": "Behold, O teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+        "hindi": "हे गुरु, पाण्डु के पुत्रों की इस विशाल सेना को देखो, जिसे द्रुपद के पुत्र ने, जो आपका बुद्धिमान शिष्य है, व्यवस्थित किया है।",
+        "marathi": "हे गुरु, पाण्डूंच्या पुत्रांची ही विशाल सेना पहा, जी द्रुपदच्या पुत्राने, जो तुमचा बुद्धिमान शिष्य आहे, व्यवस्थित केली आहे."
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "english": "Here in this army, there are many heroic bowmen equal in fighting to Bhima and Arjuna; there are also great warriors like Yuyudhana, Virata, and Drupada, the maharatha.",
+        "hindi": "इस सेना में कई वीर धनुर्धारी हैं, जो भीम और अर्जुन के समान युद्ध में सक्षम हैं; यहाँ युयुधान, विराट और द्रुपद जैसे महान रथी भी हैं।",
+        "marathi": "या सैन्यात अनेक वीर धनुर्धारी आहेत, जे भीम आणि अर्जुनाच्या समान युद्धात पात्र आहेत; येथे युयुधान, विराट आणि द्रुपद यासारखे महान रथी आहेत."
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥",
+        "english": "There are also heroes like Dhrishtaketu, Chekitana, the mighty king of Kashi, Purujit, Kuntibhoja, and Shaibya, the supreme among men.",
+        "hindi": "यहाँ धृष्टकेतु, चेकीतान, काशी के वीर राजा, पुरुजित, कुन्तिभोज और शैब्य जैसे महान योद्धा भी हैं।",
+        "marathi": "येथे धृष्टकेतु, चेकीतान, काशीचा वीर राजा, पुरुजित, कुन्तिभोज आणि शैब्य यांसारखे महान योद्धा आहेत."
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "english": "There are also Yudhami, the valiant, Uttamaujas, the mighty, and the sons of Draupadi, all great warriors and maharathas.",
+        "hindi": "यहाँ युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र और द्रौपदी के पुत्र जैसे सभी महान रथी हैं।",
+        "marathi": "येथे युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र आणि द्रौपदीचे पुत्र यांसारखे सर्व महान रथी आहेत."
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+        "english": "O best of the Brahmanas, hear from me the names of those who are the most distinguished among us. I will tell you who they are.",
+        "hindi": "हे ब्राह्मण श्रेष्ठ, अब मैं तुम्हें हमारे महान योद्धाओं के नाम बताता हूँ।",
+        "marathi": "हे ब्राह्मणश्रेष्ठ, आता मी तुम्हाला आमच्या महान योद्ध्यांची नावे सांगतो."
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "english": "You are Bhishma, Karna, and Kripa, the victor in battles; Ashwatthama, Vikarna, and the son of Somadatta, also.",
+        "hindi": "आप ही भीष्म, कर्ण और कृप हैं, जो युद्धों में विजयी हैं; अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र भी हैं।",
+        "marathi": "तुम्ही भीष्म, कर्ण आणि कृप आहात, जे युद्धात विजयी आहेत; अश्वत्थामा, विकर्ण आणि सोमदत्ताचा पुत्र देखील आहे."
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "english": "There are also many other great warriors who have laid down their lives for my sake, and they are armed with various weapons and are experts in the art of warfare.",
+        "hindi": "और भी कई महान योद्धा हैं जिन्होंने मेरे लिए अपने प्राणों की आहुति दी है, और वे विभिन्न शस्त्रों से सुसज्जित हैं और युद्ध के निपुण हैं।",
+        "marathi": "आणखी अनेक महान योद्धा आहेत ज्यांनी माझ्यासाठी आपल्या प्राणांची आहुती दिली आहे, आणि ते विविध शस्त्रांनी सुसज्जित आहेत आणि युद्धकला मध्ये निपुण आहेत."
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "english": "Our army is unlimited and protected by Bhishma, whereas the army of the Pandavas is limited and protected by Bhima.",
+        "hindi": "हमारी सेना असीमित है और भीष्म द्वारा संरक्षित है, जबकि पाण्डवों की सेना सीमित है और भीम द्वारा संरक्षित है।",
+        "marathi": "आमची सेना अपार आहे आणि भीष्माने संरक्षित केली आहे, तर पाण्डवांची सेना सीमित आहे आणि भीमाने संरक्षित केली आहे."
+      }
+      // Add verses similar to Chapter 1...
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapter_name": "Dhyana Yoga (The Yoga of Meditation)",
+    "chapter_description": "In Chapter Six - Dhyana Yoga, Krishna discusses the practice of meditation, the importance of controlling the mind, and achieving self-realization through focused attention.",
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "english": "Dhritarashtra said: O Sanjaya, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+        "hindi": "धृतराष्ट्र ने कहा: ओ संजय, कुरुक्षेत्र के धर्मक्षेत्र में एकत्र होकर और युद्ध की इच्छा रखते हुए, मेरे और पाण्डु के पुत्रों ने क्या किया?",
+        "marathi": "धृतराष्ट्र म्हणाला: संजय, कुरुक्षेत्रातील धर्मक्षेत्रात एकत्र होऊन आणि युद्धाची इच्छा बाळगून, माझ्या आणि पाण्डूच्या पुत्रांनी काय केले?"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+        "english": "Sanjaya said: O King, after observing the Pandava army arranged in a military formation, King Duryodhana approached his teacher, Drona, and spoke the following words.",
+        "hindi": "संजय ने कहा: राजन, पाण्डवों की सेना को व्यूहबद्ध होते हुए देखकर, दुर्योधन अपने गुरु द्रोण के पास गया और यह वचन कहा।",
+        "marathi": "संजय म्हणाला: राजन, पाण्डवांच्या सैन्याला व्यूहबद्ध होताना पाहून, दुर्योधन त्याच्या गुरु द्रोणाकडे गेला आणि हे शब्द उच्चारले."
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "english": "Behold, O teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+        "hindi": "हे गुरु, पाण्डु के पुत्रों की इस विशाल सेना को देखो, जिसे द्रुपद के पुत्र ने, जो आपका बुद्धिमान शिष्य है, व्यवस्थित किया है।",
+        "marathi": "हे गुरु, पाण्डूंच्या पुत्रांची ही विशाल सेना पहा, जी द्रुपदच्या पुत्राने, जो तुमचा बुद्धिमान शिष्य आहे, व्यवस्थित केली आहे."
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "english": "Here in this army, there are many heroic bowmen equal in fighting to Bhima and Arjuna; there are also great warriors like Yuyudhana, Virata, and Drupada, the maharatha.",
+        "hindi": "इस सेना में कई वीर धनुर्धारी हैं, जो भीम और अर्जुन के समान युद्ध में सक्षम हैं; यहाँ युयुधान, विराट और द्रुपद जैसे महान रथी भी हैं।",
+        "marathi": "या सैन्यात अनेक वीर धनुर्धारी आहेत, जे भीम आणि अर्जुनाच्या समान युद्धात पात्र आहेत; येथे युयुधान, विराट आणि द्रुपद यासारखे महान रथी आहेत."
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥",
+        "english": "There are also heroes like Dhrishtaketu, Chekitana, the mighty king of Kashi, Purujit, Kuntibhoja, and Shaibya, the supreme among men.",
+        "hindi": "यहाँ धृष्टकेतु, चेकीतान, काशी के वीर राजा, पुरुजित, कुन्तिभोज और शैब्य जैसे महान योद्धा भी हैं।",
+        "marathi": "येथे धृष्टकेतु, चेकीतान, काशीचा वीर राजा, पुरुजित, कुन्तिभोज आणि शैब्य यांसारखे महान योद्धा आहेत."
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "english": "There are also Yudhami, the valiant, Uttamaujas, the mighty, and the sons of Draupadi, all great warriors and maharathas.",
+        "hindi": "यहाँ युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र और द्रौपदी के पुत्र जैसे सभी महान रथी हैं।",
+        "marathi": "येथे युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र आणि द्रौपदीचे पुत्र यांसारखे सर्व महान रथी आहेत."
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+        "english": "O best of the Brahmanas, hear from me the names of those who are the most distinguished among us. I will tell you who they are.",
+        "hindi": "हे ब्राह्मण श्रेष्ठ, अब मैं तुम्हें हमारे महान योद्धाओं के नाम बताता हूँ।",
+        "marathi": "हे ब्राह्मणश्रेष्ठ, आता मी तुम्हाला आमच्या महान योद्ध्यांची नावे सांगतो."
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "english": "You are Bhishma, Karna, and Kripa, the victor in battles; Ashwatthama, Vikarna, and the son of Somadatta, also.",
+        "hindi": "आप ही भीष्म, कर्ण और कृप हैं, जो युद्धों में विजयी हैं; अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र भी हैं।",
+        "marathi": "तुम्ही भीष्म, कर्ण आणि कृप आहात, जे युद्धात विजयी आहेत; अश्वत्थामा, विकर्ण आणि सोमदत्ताचा पुत्र देखील आहे."
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "english": "There are also many other great warriors who have laid down their lives for my sake, and they are armed with various weapons and are experts in the art of warfare.",
+        "hindi": "और भी कई महान योद्धा हैं जिन्होंने मेरे लिए अपने प्राणों की आहुति दी है, और वे विभिन्न शस्त्रों से सुसज्जित हैं और युद्ध के निपुण हैं।",
+        "marathi": "आणखी अनेक महान योद्धा आहेत ज्यांनी माझ्यासाठी आपल्या प्राणांची आहुती दिली आहे, आणि ते विविध शस्त्रांनी सुसज्जित आहेत आणि युद्धकला मध्ये निपुण आहेत."
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "english": "Our army is unlimited and protected by Bhishma, whereas the army of the Pandavas is limited and protected by Bhima.",
+        "hindi": "हमारी सेना असीमित है और भीष्म द्वारा संरक्षित है, जबकि पाण्डवों की सेना सीमित है और भीम द्वारा संरक्षित है।",
+        "marathi": "आमची सेना अपार आहे आणि भीष्माने संरक्षित केली आहे, तर पाण्डवांची सेना सीमित आहे आणि भीमाने संरक्षित केली आहे."
+      }
+      // Add verses similar to Chapter 1...
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapter_name": "Jnana Vijnana Yoga (The Yoga of Knowledge and Wisdom)",
+    "chapter_description": "In Chapter Seven - Jnana Vijnana Yoga, Krishna explains the difference between the material and spiritual knowledge, emphasizing the need for both to achieve liberation.",
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "english": "Dhritarashtra said: O Sanjaya, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+        "hindi": "धृतराष्ट्र ने कहा: ओ संजय, कुरुक्षेत्र के धर्मक्षेत्र में एकत्र होकर और युद्ध की इच्छा रखते हुए, मेरे और पाण्डु के पुत्रों ने क्या किया?",
+        "marathi": "धृतराष्ट्र म्हणाला: संजय, कुरुक्षेत्रातील धर्मक्षेत्रात एकत्र होऊन आणि युद्धाची इच्छा बाळगून, माझ्या आणि पाण्डूच्या पुत्रांनी काय केले?"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+        "english": "Sanjaya said: O King, after observing the Pandava army arranged in a military formation, King Duryodhana approached his teacher, Drona, and spoke the following words.",
+        "hindi": "संजय ने कहा: राजन, पाण्डवों की सेना को व्यूहबद्ध होते हुए देखकर, दुर्योधन अपने गुरु द्रोण के पास गया और यह वचन कहा।",
+        "marathi": "संजय म्हणाला: राजन, पाण्डवांच्या सैन्याला व्यूहबद्ध होताना पाहून, दुर्योधन त्याच्या गुरु द्रोणाकडे गेला आणि हे शब्द उच्चारले."
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "english": "Behold, O teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+        "hindi": "हे गुरु, पाण्डु के पुत्रों की इस विशाल सेना को देखो, जिसे द्रुपद के पुत्र ने, जो आपका बुद्धिमान शिष्य है, व्यवस्थित किया है।",
+        "marathi": "हे गुरु, पाण्डूंच्या पुत्रांची ही विशाल सेना पहा, जी द्रुपदच्या पुत्राने, जो तुमचा बुद्धिमान शिष्य आहे, व्यवस्थित केली आहे."
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "english": "Here in this army, there are many heroic bowmen equal in fighting to Bhima and Arjuna; there are also great warriors like Yuyudhana, Virata, and Drupada, the maharatha.",
+        "hindi": "इस सेना में कई वीर धनुर्धारी हैं, जो भीम और अर्जुन के समान युद्ध में सक्षम हैं; यहाँ युयुधान, विराट और द्रुपद जैसे महान रथी भी हैं।",
+        "marathi": "या सैन्यात अनेक वीर धनुर्धारी आहेत, जे भीम आणि अर्जुनाच्या समान युद्धात पात्र आहेत; येथे युयुधान, विराट आणि द्रुपद यासारखे महान रथी आहेत."
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥",
+        "english": "There are also heroes like Dhrishtaketu, Chekitana, the mighty king of Kashi, Purujit, Kuntibhoja, and Shaibya, the supreme among men.",
+        "hindi": "यहाँ धृष्टकेतु, चेकीतान, काशी के वीर राजा, पुरुजित, कुन्तिभोज और शैब्य जैसे महान योद्धा भी हैं।",
+        "marathi": "येथे धृष्टकेतु, चेकीतान, काशीचा वीर राजा, पुरुजित, कुन्तिभोज आणि शैब्य यांसारखे महान योद्धा आहेत."
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "english": "There are also Yudhami, the valiant, Uttamaujas, the mighty, and the sons of Draupadi, all great warriors and maharathas.",
+        "hindi": "यहाँ युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र और द्रौपदी के पुत्र जैसे सभी महान रथी हैं।",
+        "marathi": "येथे युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र आणि द्रौपदीचे पुत्र यांसारखे सर्व महान रथी आहेत."
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+        "english": "O best of the Brahmanas, hear from me the names of those who are the most distinguished among us. I will tell you who they are.",
+        "hindi": "हे ब्राह्मण श्रेष्ठ, अब मैं तुम्हें हमारे महान योद्धाओं के नाम बताता हूँ।",
+        "marathi": "हे ब्राह्मणश्रेष्ठ, आता मी तुम्हाला आमच्या महान योद्ध्यांची नावे सांगतो."
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "english": "You are Bhishma, Karna, and Kripa, the victor in battles; Ashwatthama, Vikarna, and the son of Somadatta, also.",
+        "hindi": "आप ही भीष्म, कर्ण और कृप हैं, जो युद्धों में विजयी हैं; अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र भी हैं।",
+        "marathi": "तुम्ही भीष्म, कर्ण आणि कृप आहात, जे युद्धात विजयी आहेत; अश्वत्थामा, विकर्ण आणि सोमदत्ताचा पुत्र देखील आहे."
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "english": "There are also many other great warriors who have laid down their lives for my sake, and they are armed with various weapons and are experts in the art of warfare.",
+        "hindi": "और भी कई महान योद्धा हैं जिन्होंने मेरे लिए अपने प्राणों की आहुति दी है, और वे विभिन्न शस्त्रों से सुसज्जित हैं और युद्ध के निपुण हैं।",
+        "marathi": "आणखी अनेक महान योद्धा आहेत ज्यांनी माझ्यासाठी आपल्या प्राणांची आहुती दिली आहे, आणि ते विविध शस्त्रांनी सुसज्जित आहेत आणि युद्धकला मध्ये निपुण आहेत."
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "english": "Our army is unlimited and protected by Bhishma, whereas the army of the Pandavas is limited and protected by Bhima.",
+        "hindi": "हमारी सेना असीमित है और भीष्म द्वारा संरक्षित है, जबकि पाण्डवों की सेना सीमित है और भीम द्वारा संरक्षित है।",
+        "marathi": "आमची सेना अपार आहे आणि भीष्माने संरक्षित केली आहे, तर पाण्डवांची सेना सीमित आहे आणि भीमाने संरक्षित केली आहे."
+      }
+      // Add verses similar to Chapter 1...
+    ]
+  },
+  {
+    "chapter": 8,
+    "chapter_name": "Aksara Brahma Yoga (The Yoga of the Imperishable Absolute)",
+    "chapter_description": "In Chapter Eight - Aksara Brahma Yoga, Krishna teaches the nature of the eternal soul and explains how to attain the imperishable supreme.",
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "english": "Dhritarashtra said: O Sanjaya, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+        "hindi": "धृतराष्ट्र ने कहा: ओ संजय, कुरुक्षेत्र के धर्मक्षेत्र में एकत्र होकर और युद्ध की इच्छा रखते हुए, मेरे और पाण्डु के पुत्रों ने क्या किया?",
+        "marathi": "धृतराष्ट्र म्हणाला: संजय, कुरुक्षेत्रातील धर्मक्षेत्रात एकत्र होऊन आणि युद्धाची इच्छा बाळगून, माझ्या आणि पाण्डूच्या पुत्रांनी काय केले?"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+        "english": "Sanjaya said: O King, after observing the Pandava army arranged in a military formation, King Duryodhana approached his teacher, Drona, and spoke the following words.",
+        "hindi": "संजय ने कहा: राजन, पाण्डवों की सेना को व्यूहबद्ध होते हुए देखकर, दुर्योधन अपने गुरु द्रोण के पास गया और यह वचन कहा।",
+        "marathi": "संजय म्हणाला: राजन, पाण्डवांच्या सैन्याला व्यूहबद्ध होताना पाहून, दुर्योधन त्याच्या गुरु द्रोणाकडे गेला आणि हे शब्द उच्चारले."
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "english": "Behold, O teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+        "hindi": "हे गुरु, पाण्डु के पुत्रों की इस विशाल सेना को देखो, जिसे द्रुपद के पुत्र ने, जो आपका बुद्धिमान शिष्य है, व्यवस्थित किया है।",
+        "marathi": "हे गुरु, पाण्डूंच्या पुत्रांची ही विशाल सेना पहा, जी द्रुपदच्या पुत्राने, जो तुमचा बुद्धिमान शिष्य आहे, व्यवस्थित केली आहे."
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "english": "Here in this army, there are many heroic bowmen equal in fighting to Bhima and Arjuna; there are also great warriors like Yuyudhana, Virata, and Drupada, the maharatha.",
+        "hindi": "इस सेना में कई वीर धनुर्धारी हैं, जो भीम और अर्जुन के समान युद्ध में सक्षम हैं; यहाँ युयुधान, विराट और द्रुपद जैसे महान रथी भी हैं।",
+        "marathi": "या सैन्यात अनेक वीर धनुर्धारी आहेत, जे भीम आणि अर्जुनाच्या समान युद्धात पात्र आहेत; येथे युयुधान, विराट आणि द्रुपद यासारखे महान रथी आहेत."
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥",
+        "english": "There are also heroes like Dhrishtaketu, Chekitana, the mighty king of Kashi, Purujit, Kuntibhoja, and Shaibya, the supreme among men.",
+        "hindi": "यहाँ धृष्टकेतु, चेकीतान, काशी के वीर राजा, पुरुजित, कुन्तिभोज और शैब्य जैसे महान योद्धा भी हैं।",
+        "marathi": "येथे धृष्टकेतु, चेकीतान, काशीचा वीर राजा, पुरुजित, कुन्तिभोज आणि शैब्य यांसारखे महान योद्धा आहेत."
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "english": "There are also Yudhami, the valiant, Uttamaujas, the mighty, and the sons of Draupadi, all great warriors and maharathas.",
+        "hindi": "यहाँ युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र और द्रौपदी के पुत्र जैसे सभी महान रथी हैं।",
+        "marathi": "येथे युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र आणि द्रौपदीचे पुत्र यांसारखे सर्व महान रथी आहेत."
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+        "english": "O best of the Brahmanas, hear from me the names of those who are the most distinguished among us. I will tell you who they are.",
+        "hindi": "हे ब्राह्मण श्रेष्ठ, अब मैं तुम्हें हमारे महान योद्धाओं के नाम बताता हूँ।",
+        "marathi": "हे ब्राह्मणश्रेष्ठ, आता मी तुम्हाला आमच्या महान योद्ध्यांची नावे सांगतो."
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "english": "You are Bhishma, Karna, and Kripa, the victor in battles; Ashwatthama, Vikarna, and the son of Somadatta, also.",
+        "hindi": "आप ही भीष्म, कर्ण और कृप हैं, जो युद्धों में विजयी हैं; अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र भी हैं।",
+        "marathi": "तुम्ही भीष्म, कर्ण आणि कृप आहात, जे युद्धात विजयी आहेत; अश्वत्थामा, विकर्ण आणि सोमदत्ताचा पुत्र देखील आहे."
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "english": "There are also many other great warriors who have laid down their lives for my sake, and they are armed with various weapons and are experts in the art of warfare.",
+        "hindi": "और भी कई महान योद्धा हैं जिन्होंने मेरे लिए अपने प्राणों की आहुति दी है, और वे विभिन्न शस्त्रों से सुसज्जित हैं और युद्ध के निपुण हैं।",
+        "marathi": "आणखी अनेक महान योद्धा आहेत ज्यांनी माझ्यासाठी आपल्या प्राणांची आहुती दिली आहे, आणि ते विविध शस्त्रांनी सुसज्जित आहेत आणि युद्धकला मध्ये निपुण आहेत."
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "english": "Our army is unlimited and protected by Bhishma, whereas the army of the Pandavas is limited and protected by Bhima.",
+        "hindi": "हमारी सेना असीमित है और भीष्म द्वारा संरक्षित है, जबकि पाण्डवों की सेना सीमित है और भीम द्वारा संरक्षित है।",
+        "marathi": "आमची सेना अपार आहे आणि भीष्माने संरक्षित केली आहे, तर पाण्डवांची सेना सीमित आहे आणि भीमाने संरक्षित केली आहे."
+      }
+      // Add verses similar to Chapter 1...
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapter_name": "Raja Vidya Raja Guhya Yoga (The Yoga of Royal Knowledge and Royal Secret)",
+    "chapter_description": "In Chapter Nine - Raja Vidya Raja Guhya Yoga, Krishna reveals the most secret knowledge to Arjuna, explaining the supreme path and the importance of devotion and surrender to the divine.",
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "english": "Dhritarashtra said: O Sanjaya, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+        "hindi": "धृतराष्ट्र ने कहा: ओ संजय, कुरुक्षेत्र के धर्मक्षेत्र में एकत्र होकर और युद्ध की इच्छा रखते हुए, मेरे और पाण्डु के पुत्रों ने क्या किया?",
+        "marathi": "धृतराष्ट्र म्हणाला: संजय, कुरुक्षेत्रातील धर्मक्षेत्रात एकत्र होऊन आणि युद्धाची इच्छा बाळगून, माझ्या आणि पाण्डूच्या पुत्रांनी काय केले?"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+        "english": "Sanjaya said: O King, after observing the Pandava army arranged in a military formation, King Duryodhana approached his teacher, Drona, and spoke the following words.",
+        "hindi": "संजय ने कहा: राजन, पाण्डवों की सेना को व्यूहबद्ध होते हुए देखकर, दुर्योधन अपने गुरु द्रोण के पास गया और यह वचन कहा।",
+        "marathi": "संजय म्हणाला: राजन, पाण्डवांच्या सैन्याला व्यूहबद्ध होताना पाहून, दुर्योधन त्याच्या गुरु द्रोणाकडे गेला आणि हे शब्द उच्चारले."
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "english": "Behold, O teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+        "hindi": "हे गुरु, पाण्डु के पुत्रों की इस विशाल सेना को देखो, जिसे द्रुपद के पुत्र ने, जो आपका बुद्धिमान शिष्य है, व्यवस्थित किया है।",
+        "marathi": "हे गुरु, पाण्डूंच्या पुत्रांची ही विशाल सेना पहा, जी द्रुपदच्या पुत्राने, जो तुमचा बुद्धिमान शिष्य आहे, व्यवस्थित केली आहे."
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "english": "Here in this army, there are many heroic bowmen equal in fighting to Bhima and Arjuna; there are also great warriors like Yuyudhana, Virata, and Drupada, the maharatha.",
+        "hindi": "इस सेना में कई वीर धनुर्धारी हैं, जो भीम और अर्जुन के समान युद्ध में सक्षम हैं; यहाँ युयुधान, विराट और द्रुपद जैसे महान रथी भी हैं।",
+        "marathi": "या सैन्यात अनेक वीर धनुर्धारी आहेत, जे भीम आणि अर्जुनाच्या समान युद्धात पात्र आहेत; येथे युयुधान, विराट आणि द्रुपद यासारखे महान रथी आहेत."
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥",
+        "english": "There are also heroes like Dhrishtaketu, Chekitana, the mighty king of Kashi, Purujit, Kuntibhoja, and Shaibya, the supreme among men.",
+        "hindi": "यहाँ धृष्टकेतु, चेकीतान, काशी के वीर राजा, पुरुजित, कुन्तिभोज और शैब्य जैसे महान योद्धा भी हैं।",
+        "marathi": "येथे धृष्टकेतु, चेकीतान, काशीचा वीर राजा, पुरुजित, कुन्तिभोज आणि शैब्य यांसारखे महान योद्धा आहेत."
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "english": "There are also Yudhami, the valiant, Uttamaujas, the mighty, and the sons of Draupadi, all great warriors and maharathas.",
+        "hindi": "यहाँ युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र और द्रौपदी के पुत्र जैसे सभी महान रथी हैं।",
+        "marathi": "येथे युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र आणि द्रौपदीचे पुत्र यांसारखे सर्व महान रथी आहेत."
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+        "english": "O best of the Brahmanas, hear from me the names of those who are the most distinguished among us. I will tell you who they are.",
+        "hindi": "हे ब्राह्मण श्रेष्ठ, अब मैं तुम्हें हमारे महान योद्धाओं के नाम बताता हूँ।",
+        "marathi": "हे ब्राह्मणश्रेष्ठ, आता मी तुम्हाला आमच्या महान योद्ध्यांची नावे सांगतो."
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "english": "You are Bhishma, Karna, and Kripa, the victor in battles; Ashwatthama, Vikarna, and the son of Somadatta, also.",
+        "hindi": "आप ही भीष्म, कर्ण और कृप हैं, जो युद्धों में विजयी हैं; अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र भी हैं।",
+        "marathi": "तुम्ही भीष्म, कर्ण आणि कृप आहात, जे युद्धात विजयी आहेत; अश्वत्थामा, विकर्ण आणि सोमदत्ताचा पुत्र देखील आहे."
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "english": "There are also many other great warriors who have laid down their lives for my sake, and they are armed with various weapons and are experts in the art of warfare.",
+        "hindi": "और भी कई महान योद्धा हैं जिन्होंने मेरे लिए अपने प्राणों की आहुति दी है, और वे विभिन्न शस्त्रों से सुसज्जित हैं और युद्ध के निपुण हैं।",
+        "marathi": "आणखी अनेक महान योद्धा आहेत ज्यांनी माझ्यासाठी आपल्या प्राणांची आहुती दिली आहे, आणि ते विविध शस्त्रांनी सुसज्जित आहेत आणि युद्धकला मध्ये निपुण आहेत."
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "english": "Our army is unlimited and protected by Bhishma, whereas the army of the Pandavas is limited and protected by Bhima.",
+        "hindi": "हमारी सेना असीमित है और भीष्म द्वारा संरक्षित है, जबकि पाण्डवों की सेना सीमित है और भीम द्वारा संरक्षित है।",
+        "marathi": "आमची सेना अपार आहे आणि भीष्माने संरक्षित केली आहे, तर पाण्डवांची सेना सीमित आहे आणि भीमाने संरक्षित केली आहे."
+      }
+      // Add verses similar to Chapter 1...
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapter_name": "Vibhuti Yoga (The Yoga of Divine Glories)",
+    "chapter_description": "In Chapter Ten - Vibhuti Yoga, Krishna describes his divine manifestations in the world, emphasizing the importance of recognizing and understanding the divine presence in all things.",
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "english": "Dhritarashtra said: O Sanjaya, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+        "hindi": "धृतराष्ट्र ने कहा: ओ संजय, कुरुक्षेत्र के धर्मक्षेत्र में एकत्र होकर और युद्ध की इच्छा रखते हुए, मेरे और पाण्डु के पुत्रों ने क्या किया?",
+        "marathi": "धृतराष्ट्र म्हणाला: संजय, कुरुक्षेत्रातील धर्मक्षेत्रात एकत्र होऊन आणि युद्धाची इच्छा बाळगून, माझ्या आणि पाण्डूच्या पुत्रांनी काय केले?"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+        "english": "Sanjaya said: O King, after observing the Pandava army arranged in a military formation, King Duryodhana approached his teacher, Drona, and spoke the following words.",
+        "hindi": "संजय ने कहा: राजन, पाण्डवों की सेना को व्यूहबद्ध होते हुए देखकर, दुर्योधन अपने गुरु द्रोण के पास गया और यह वचन कहा।",
+        "marathi": "संजय म्हणाला: राजन, पाण्डवांच्या सैन्याला व्यूहबद्ध होताना पाहून, दुर्योधन त्याच्या गुरु द्रोणाकडे गेला आणि हे शब्द उच्चारले."
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "english": "Behold, O teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+        "hindi": "हे गुरु, पाण्डु के पुत्रों की इस विशाल सेना को देखो, जिसे द्रुपद के पुत्र ने, जो आपका बुद्धिमान शिष्य है, व्यवस्थित किया है।",
+        "marathi": "हे गुरु, पाण्डूंच्या पुत्रांची ही विशाल सेना पहा, जी द्रुपदच्या पुत्राने, जो तुमचा बुद्धिमान शिष्य आहे, व्यवस्थित केली आहे."
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "english": "Here in this army, there are many heroic bowmen equal in fighting to Bhima and Arjuna; there are also great warriors like Yuyudhana, Virata, and Drupada, the maharatha.",
+        "hindi": "इस सेना में कई वीर धनुर्धारी हैं, जो भीम और अर्जुन के समान युद्ध में सक्षम हैं; यहाँ युयुधान, विराट और द्रुपद जैसे महान रथी भी हैं।",
+        "marathi": "या सैन्यात अनेक वीर धनुर्धारी आहेत, जे भीम आणि अर्जुनाच्या समान युद्धात पात्र आहेत; येथे युयुधान, विराट आणि द्रुपद यासारखे महान रथी आहेत."
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥",
+        "english": "There are also heroes like Dhrishtaketu, Chekitana, the mighty king of Kashi, Purujit, Kuntibhoja, and Shaibya, the supreme among men.",
+        "hindi": "यहाँ धृष्टकेतु, चेकीतान, काशी के वीर राजा, पुरुजित, कुन्तिभोज और शैब्य जैसे महान योद्धा भी हैं।",
+        "marathi": "येथे धृष्टकेतु, चेकीतान, काशीचा वीर राजा, पुरुजित, कुन्तिभोज आणि शैब्य यांसारखे महान योद्धा आहेत."
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "english": "There are also Yudhami, the valiant, Uttamaujas, the mighty, and the sons of Draupadi, all great warriors and maharathas.",
+        "hindi": "यहाँ युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र और द्रौपदी के पुत्र जैसे सभी महान रथी हैं।",
+        "marathi": "येथे युधामन्यु, विक्रान्त, उत्तमौज, वीर्यवान, सौभद्र आणि द्रौपदीचे पुत्र यांसारखे सर्व महान रथी आहेत."
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+        "english": "O best of the Brahmanas, hear from me the names of those who are the most distinguished among us. I will tell you who they are.",
+        "hindi": "हे ब्राह्मण श्रेष्ठ, अब मैं तुम्हें हमारे महान योद्धाओं के नाम बताता हूँ।",
+        "marathi": "हे ब्राह्मणश्रेष्ठ, आता मी तुम्हाला आमच्या महान योद्ध्यांची नावे सांगतो."
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "english": "You are Bhishma, Karna, and Kripa, the victor in battles; Ashwatthama, Vikarna, and the son of Somadatta, also.",
+        "hindi": "आप ही भीष्म, कर्ण और कृप हैं, जो युद्धों में विजयी हैं; अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र भी हैं।",
+        "marathi": "तुम्ही भीष्म, कर्ण आणि कृप आहात, जे युद्धात विजयी आहेत; अश्वत्थामा, विकर्ण आणि सोमदत्ताचा पुत्र देखील आहे."
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "english": "There are also many other great warriors who have laid down their lives for my sake, and they are armed with various weapons and are experts in the art of warfare.",
+        "hindi": "और भी कई महान योद्धा हैं जिन्होंने मेरे लिए अपने प्राणों की आहुति दी है, और वे विभिन्न शस्त्रों से सुसज्जित हैं और युद्ध के निपुण हैं।",
+        "marathi": "आणखी अनेक महान योद्धा आहेत ज्यांनी माझ्यासाठी आपल्या प्राणांची आहुती दिली आहे, आणि ते विविध शस्त्रांनी सुसज्जित आहेत आणि युद्धकला मध्ये निपुण आहेत."
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "english": "Our army is unlimited and protected by Bhishma, whereas the army of the Pandavas is limited and protected by Bhima.",
+        "hindi": "हमारी सेना असीमित है और भीष्म द्वारा संरक्षित है, जबकि पाण्डवों की सेना सीमित है और भीम द्वारा संरक्षित है।",
+        "marathi": "आमची सेना अपार आहे आणि भीष्माने संरक्षित केली आहे, तर पाण्डवांची सेना सीमित आहे आणि भीमाने संरक्षित केली आहे."
+      }
+      // Add verses similar to Chapter 1...
+    ]
+  }
 ]
