@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.chapter-list {
+    position: fixed;
+    left: -250px;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    transition: left 0.3s;
+}
+
+.chapter-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.chapter-list ul li {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.floating-btn {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
