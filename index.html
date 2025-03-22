@@ -3,20 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bhagavad Gita - Chapters</title>
-    <link rel="stylesheet" href="styles.css">
-    <script src="script.js" defer></script>
-</head>
-<body>
-    <button id="toggleChapters" class="floating-btn">☰</button>
-    <div id="chapterListContainer" class="chapter-list">
-        <h2>Chapters</h2>
-        <ul id="chapterList"></ul>
-    </div>
+    <meta name="description" content="Bhagavad Gita - Translations in Multiple Languages">
+    <meta name="author" content="Your Name">
+    <title>Bhagavad Gita Translations</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow|Astloch:regular,bold" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
     
-    <div class="container">
-        <h1>Bhagavad Gita</h1>
-        <div id="chapters"></div>
+    <!-- jQuery (Locally Hosted) -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery-ui.min.js"></script>
+    <script src="assets/js/jquery.easing.js"></script>
+    <script src="assets/js/jquery.mousewheel.js"></script>
+    <script src="assets/js/jquery.jscrollpane.min.js"></script>
+    <script src="assets/js/jquery.transform-0.9.3.min.js"></script>
+    <script src="assets/js/audio.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            audiojs.events.ready(function() {
+                var as = audiojs.createAll();
+            });
+
+            // Initialize the menu and other UI elements
+            function initMenu() {
+                $("#mb_menu a").hover(
+                    function() { $(this).css("background-color", "#fff").css("color", "#000"); },
+                    function() { $(this).css("background-color", "#000").css("color", "#fff"); }
+                );
+            }
+
+            initMenu();
+        });
+    </script>
+</head>
+
+<body>
+
+    <!-- Background Image -->
+    <img class="mb_bgimage" src="assets/images/bg.jpg" alt="Bhagavad Gita Background">
+
+    <!-- Content Wrapper -->
+    <div class="mb_content_wrapper">
+        <span class="mb_close"></span>
+        <div class="mb_content">
+            <h2>Bhagavad Gita</h2>
+            <div class="mb_content_inner">
+                <p>Explore the Bhagavad Gita in multiple languages.</p>
+            </div>
+        </div>
     </div>
+
+    <!-- Footer -->
+    <div class="mb_footer">
+        <a href="https://yourgithubpage.github.io">Home</a>
+    </div>
+
 </body>
 </html>
