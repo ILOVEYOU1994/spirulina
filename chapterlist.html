@@ -3,22 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bhagavad Gita - Chapter</title>
+    <title>Chapter Details</title>
     <link rel="stylesheet" href="styles.css">
-    <script defer src="chapter.js"></script>
+    <script src="script.js" defer></script>
 </head>
 <body>
-
-    <button class="floating-btn" onclick="toggleChapterMenu()">☰ Chapters</button>
-
-    <div id="chapter-menu" class="chapter-menu">
-        <button onclick="toggleChapterMenu()" class="close-btn">✖</button>
-        <ul id="chapter-list"></ul>
+    <button id="toggleChapters" class="floating-btn">☰</button>
+    <div id="chapterListContainer" class="chapter-list">
+        <h2>Chapters</h2>
+        <ul id="chapterList"></ul>
     </div>
 
-    <div id="chapter-info"></div>
-    <div id="verses-container"></div>
-    <div id="navigation-buttons"></div>
-
+    <div class="container">
+        <h1 id="chapterTitle"></h1>
+        <p id="chapterDescription"></p>
+        <div id="verses"></div>
+        <div class="nav-buttons">
+            <button id="prevChapter">Previous</button>
+            <button id="nextChapter">Next</button>
+        </div>
+    </div>
 </body>
 </html>
