@@ -1,0 +1,22 @@
+[
+    {
+        "chapter": 1,
+        "chapter_name": "Arjuna Vishada Yoga",
+        "chapter_description": "The Yoga of Arjuna's Dejection",
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच...",
+        "english": "Dhritarashtra said...",
+        "hindi": "धृतराष्ट्र ने कहा...",
+        "marathi": "धृतराष्ट्र म्हणाला..."
+    },
+    {
+        "chapter": 1,
+        "chapter_name": "Arjuna Vishada Yoga",
+        "chapter_description": "The Yoga of Arjuna's Dejection",
+        "verse_number": 2,
+        "sanskrit": "संजय उवाच...",
+        "english": "Sanjaya said...",
+        "hindi": "संजय ने कहा...",
+        "marathi": "संजय म्हणाला..."
+    }
+]
