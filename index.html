@@ -3,24 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bhagavad Gita - Chapters</title>
+    <title>Bhagavad Gita</title>
     <link rel="stylesheet" href="styles.css">
-    <script defer src="script.js"></script>
 </head>
 <body>
+    <button id="menuButton">☰ Chapters</button>
+    <input type="text" id="searchInput" placeholder="Search verse...">
+    <div id="chapterList" class="hidden"></div>
+    <div id="verseContainer"></div>
+    <button id="prevButton">Previous</button>
+    <button id="nextButton">Next</button>
 
-    <button class="floating-btn" onclick="toggleChapterMenu()">☰ Chapters</button>
-
-    <div id="chapter-menu" class="chapter-menu">
-        <button onclick="toggleChapterMenu()" class="close-btn">✖</button>
-        <ul id="chapter-list"></ul>
-    </div>
-
-    <header>
-        <h1>Bhagavad Gita - Chapters</h1>
-    </header>
-
-    <div id="chapter-container"></div>
-
+    <script src="script.js"></script>
 </body>
 </html>
