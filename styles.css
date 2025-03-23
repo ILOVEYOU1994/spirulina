@@ -11,23 +11,10 @@ body {
     margin: auto;
 }
 
-.chapter-card {
-    background: white;
-    border-radius: 8px;
-    padding: 15px;
-    margin: 10px auto;
-    cursor: pointer;
-    transition: 0.3s;
-    width: 60%;
-}
-
-.chapter-card:hover {
-    background: #ddd;
-}
-
+/* Chapter List Container */
 .chapter-list {
     position: fixed;
-    left: -250px;
+    left: -250px; /* Initially hidden */
     top: 0;
     width: 250px;
     height: 100%;
@@ -36,6 +23,12 @@ body {
     padding: 15px;
     transition: left 0.3s ease-in-out;
     overflow-y: auto;
+    box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Show the chapter list when visible class is added */
+.chapter-list.visible {
+    left: 0;
 }
 
 .chapter-list h2 {
@@ -57,7 +50,7 @@ body {
     background-color: #555;
 }
 
-/* Updated styles for floating button */
+/* Floating Button */
 .floating-btn {
     position: fixed;
     left: 20px;
@@ -70,19 +63,14 @@ body {
     cursor: pointer;
     font-size: 18px;
     transition: left 0.3s ease-in-out;
+    z-index: 1000;
+}
+
+/* When chapter list is open, move button to the right of the container */
+.chapter-list.visible + .floating-btn {
+    left: 270px; /* Moves to right of the open menu */
 }
 
 .floating-btn:hover {
     background: #0056b3;
-}
-
-/* When the chapter list is open, move button to the right */
-.chapter-list.visible + .floating-btn {
-    left: 270px; /* Moves to right of the container */
-}
-
-.nav-buttons {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 20px;
 }
