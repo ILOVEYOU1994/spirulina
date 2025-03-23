@@ -57,10 +57,7 @@ body {
     background-color: #555;
 }
 
-.chapter-list.visible {
-    left: 0;
-}
-
+/* Updated styles for floating button */
 .floating-btn {
     position: fixed;
     left: 20px;
@@ -72,10 +69,16 @@ body {
     border-radius: 50%;
     cursor: pointer;
     font-size: 18px;
+    transition: left 0.3s ease-in-out;
 }
 
 .floating-btn:hover {
     background: #0056b3;
+}
+
+/* When the chapter list is open, move button to the right */
+.chapter-list.visible + .floating-btn {
+    left: 270px; /* Moves to right of the container */
 }
 
 .nav-buttons {
