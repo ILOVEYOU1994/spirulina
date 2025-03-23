@@ -3,24 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bhagavad Gita</title>
+    <meta name="description" content="Bhagavad Gita - Translations in Multiple Languages">
+    <meta name="author" content="Your Name">
+    <title>Bhagavad Gita Translations</title>
+
+    <!-- Styles -->
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-    <header>
-        <h1>Bhagavad Gita</h1>
-        <p>Explore the Bhagavad Gita in multiple languages.</p>
-    </header>
 
-    <main>
-        <h2>View Chapters</h2>
-        <div id="chapters"></div>
-    </main>
+    <h1>Bhagavad Gita</h1>
+    <p>Explore the Bhagavad Gita in multiple languages.</p>
 
-    <footer>
-        <p>Home</p>
-    </footer>
+    <button id="toggleChapters" class="floating-btn">☰</button>
+
+    <!-- Left-side Chapter List -->
+    <div id="chapterListContainer" class="chapter-list">
+        <h2>Chapters</h2>
+        <ul id="chapterList"></ul>
+    </div>
+
+    <div id="chapters"></div>
 
     <script src="script.js"></script>
+
 </body>
 </html>
