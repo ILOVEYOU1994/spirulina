@@ -5,26 +5,32 @@ document.addEventListener("DOMContentLoaded", function () {
         .then(response => response.json())
         .then(data => {
             jsonData = data;
-            if (document.getElementById("chapterList")) {
+            if (document.getElementById("chapters")) {
                 loadChapters();
             } else {
                 loadChapterDetails();
             }
         });
 
-    document.getElementById("toggleChapters").addEventListener("click", toggleChapterList);
+    let toggleBtn = document.getElementById("toggleChapters");
+    if (toggleBtn) {
+        toggleBtn.addEventListener("click", toggleChapterList);
+    }
 });
 
 function loadChapters() {
-    let container = document.getElementById("chapterList");
+    let container = document.getElementById("chapters");
+    if (!container) return;
+
     jsonData.Gita.forEach((chapter, index) => {
-        let li = document.createElement("li");
-        li.innerText = `${chapter.chapterName}`;
-        li.onclick = () => {
+        let div = document.createElement("div");
+        div.className = "chapter-card";
+        div.innerHTML = `<h2>${chapter.chapterName}</h2><p>${chapter.chapterDescription}</p>`;
+        div.onclick = () => {
             localStorage.setItem("selectedChapter", index);
             window.location.href = "chapterlist.html";
         };
-        container.appendChild(li);
+        container.appendChild(div);
     });
 }
 
@@ -37,6 +43,8 @@ function loadChapterDetails() {
     document.getElementById("chapterDescription").innerText = chapter.chapterDescription;
 
     let verseContainer = document.getElementById("verses");
+    if (!verseContainer) return;
+
     chapter.verses.forEach(verse => {
         let div = document.createElement("div");
         div.className = "verse-card";
@@ -51,8 +59,11 @@ function loadChapterDetails() {
         verseContainer.appendChild(div);
     });
 
-    document.getElementById("prevChapter").onclick = () => navigateChapter(-1);
-    document.getElementById("nextChapter").onclick = () => navigateChapter(1);
+    let prevBtn = document.getElementById("prevChapter");
+    let nextBtn = document.getElementById("nextChapter");
+
+    if (prevBtn) prevBtn.onclick = () => navigateChapter(-1);
+    if (nextBtn) nextBtn.onclick = () => navigateChapter(1);
 }
 
 function navigateChapter(direction) {
@@ -78,5 +89,7 @@ function shareVerse(verseNumber, sanskrit, english, hindi, marathi) {
 
 function toggleChapterList() {
     let list = document.getElementById("chapterListContainer");
-    list.style.left = list.style.left === "0px" ? "-250px" : "0px";
+    if (list) {
+        list.style.left = list.style.left === "0px" ? "-250px" : "0px";
+    }
 }
