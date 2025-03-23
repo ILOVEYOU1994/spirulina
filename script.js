@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
             jsonData = data;
             if (document.getElementById("chapters")) {
                 loadChapters();
-            } else {
+            } else if (document.getElementById("chapterTitle")) {
                 loadChapterDetails();
             }
         });
@@ -39,11 +39,15 @@ function loadChapterDetails() {
     if (index === null) return;
 
     let chapter = jsonData.Gita[index];
-    document.getElementById("chapterTitle").innerText = chapter.chapterName;
-    document.getElementById("chapterDescription").innerText = chapter.chapterDescription;
-
+    let chapterTitle = document.getElementById("chapterTitle");
+    let chapterDescription = document.getElementById("chapterDescription");
     let verseContainer = document.getElementById("verses");
+
+    if (chapterTitle) chapterTitle.innerText = chapter.chapterName;
+    if (chapterDescription) chapterDescription.innerText = chapter.chapterDescription;
     if (!verseContainer) return;
+
+    verseContainer.innerHTML = "";
 
     chapter.verses.forEach(verse => {
         let div = document.createElement("div");
