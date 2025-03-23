@@ -51,7 +51,15 @@ function loadChapterList() {
 
 function toggleChapterList() {
     let list = document.getElementById("chapterListContainer");
+    let toggleBtn = document.getElementById("toggleChapters");
+
     list.classList.toggle("visible");
+
+    if (list.classList.contains("visible")) {
+        toggleBtn.style.left = "270px"; // Move button to the right of the opened container
+    } else {
+        toggleBtn.style.left = "20px"; // Move button back to original position
+    }
 }
 
 function loadChapterDetails() {
