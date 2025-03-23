@@ -15,7 +15,7 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
-    
+
     <!-- jQuery (Locally Hosted) -->
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/jquery-ui.min.js"></script>
@@ -24,24 +24,7 @@
     <script src="assets/js/jquery.jscrollpane.min.js"></script>
     <script src="assets/js/jquery.transform-0.9.3.min.js"></script>
     <script src="assets/js/audio.min.js"></script>
-
-    <script>
-        $(document).ready(function() {
-            audiojs.events.ready(function() {
-                var as = audiojs.createAll();
-            });
-
-            // Initialize the menu and other UI elements
-            function initMenu() {
-                $("#mb_menu a").hover(
-                    function() { $(this).css("background-color", "#fff").css("color", "#000"); },
-                    function() { $(this).css("background-color", "#000").css("color", "#fff"); }
-                );
-            }
-
-            initMenu();
-        });
-    </script>
+    <script src="script.js" defer></script>
 </head>
 
 <body>
@@ -51,11 +34,11 @@
 
     <!-- Content Wrapper -->
     <div class="mb_content_wrapper">
-        <span class="mb_close"></span>
         <div class="mb_content">
             <h2>Bhagavad Gita</h2>
             <div class="mb_content_inner">
                 <p>Explore the Bhagavad Gita in multiple languages.</p>
+                <a href="chapterlist.html" class="btn">View Chapters</a>
             </div>
         </div>
     </div>
