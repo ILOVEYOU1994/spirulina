@@ -10,20 +10,18 @@ document.addEventListener("DOMContentLoaded", function () {
             } else {
                 loadChapterDetails();
             }
-            loadChapterList(); // Ensure chapter list loads
+            loadChapterList();
         })
         .catch(error => console.error("Error loading data.json:", error));
 
-    document.getElementById("toggleChapters").addEventListener("click", toggleChapterList);
+    let toggleBtn = document.getElementById("toggleChapters");
+    if (toggleBtn) {
+        toggleBtn.addEventListener("click", toggleChapterList);
+    }
 });
 
 function loadChapters() {
     let container = document.getElementById("chapters");
-    if (!jsonData || !Array.isArray(jsonData)) {
-        console.error("Invalid JSON format");
-        return;
-    }
-
     jsonData.forEach((chapter, index) => {
         let div = document.createElement("div");
         div.className = "chapter-card";
@@ -39,9 +37,7 @@ function loadChapters() {
 function loadChapterList() {
     let listContainer = document.getElementById("chapterList");
     if (!jsonData || !listContainer) return;
-
-    listContainer.innerHTML = ""; // Clear previous content
-
+    listContainer.innerHTML = "";
     jsonData.forEach((chapter, index) => {
         let listItem = document.createElement("li");
         listItem.textContent = `Chapter ${index + 1}`;
@@ -55,6 +51,45 @@ function loadChapterList() {
 
 function toggleChapterList() {
     let list = document.getElementById("chapterListContainer");
-    if (!list) return;
     list.classList.toggle("visible");
+}
+
+function loadChapterDetails() {
+    let index = localStorage.getItem("selectedChapter");
+    if (index === null) return;
+    let chapter = jsonData[index];
+
+    document.getElementById("chapterTitle").innerText = `Chapter ${chapter.chapter}: ${chapter.chapter_name}`;
+    document.getElementById("chapterDescription").innerText = chapter.chapter_description;
+
+    let verseContainer = document.getElementById("verses");
+    verseContainer.innerHTML = "";
+
+    chapter.verses.forEach(verse => {
+        let div = document.createElement("div");
+        div.className = "verse-card";
+        div.innerHTML = `
+            <h3>Verse ${verse.verse_number}</h3>
+            <p><b>Sanskrit:</b> ${verse.sanskrit}</p>
+            <p><b>English:</b> ${verse.english}</p>
+            <p><b>Hindi:</b> ${verse.hindi}</p>
+            <p><b>Marathi:</b> ${verse.marathi}</p>
+            <button onclick="shareVerse('${verse.verse_number}', '${verse.english}')">📤 Share</button>
+        `;
+        verseContainer.appendChild(div);
+    });
+
+    document.getElementById("prevChapter").onclick = () => navigateChapter(-1);
+    document.getElementById("nextChapter").onclick = () => navigateChapter(1);
+}
+
+function navigateChapter(direction) {
+    let index = parseInt(localStorage.getItem("selectedChapter"));
+    let newIndex = index + direction;
+    if (newIndex < 0 || newIndex >= jsonData.length) {
+        window.location.href = "index.html";
+    } else {
+        localStorage.setItem("selectedChapter", newIndex);
+        window.location.reload();
+    }
 }
