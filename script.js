@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
         .then(response => response.json())
         .then(data => {
             jsonData = data;
-            if (document.getElementById("chapters")) {
+            if (document.getElementById("chapterList")) {
                 loadChapters();
             } else {
                 loadChapterDetails();
@@ -16,16 +16,15 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function loadChapters() {
-    let container = document.getElementById("chapters");
+    let container = document.getElementById("chapterList");
     jsonData.Gita.forEach((chapter, index) => {
-        let div = document.createElement("div");
-        div.className = "chapter-card";
-        div.innerHTML = `<h2>${chapter.chapterName}</h2><p>${chapter.chapterDescription}</p>`;
-        div.onclick = () => {
+        let li = document.createElement("li");
+        li.innerText = `${chapter.chapterName}`;
+        li.onclick = () => {
             localStorage.setItem("selectedChapter", index);
             window.location.href = "chapterlist.html";
         };
-        container.appendChild(div);
+        container.appendChild(li);
     });
 }
 
